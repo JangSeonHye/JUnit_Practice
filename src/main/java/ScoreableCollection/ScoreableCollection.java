@@ -1,9 +1,11 @@
-package JUnit_;
+package ScoreableCollection;
 
 import java.util.*;
 
-// Scoreable 객체의 컬렉션 평균 반환
-// Scoreable 객체는 점수를 갖는다.
+/*
+    Scoreable 객체의 컬렉션 평균 반환
+    Scoreable 객체는 점수를 갖는다.
+ */
 
 public class ScoreableCollection
 {

@@ -1,8 +1,19 @@
+package CircleTest;
+
 import CircleCollection.Circle;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.assertTrue;
 import static org.junit.jupiter.api.Assertions.assertFalse;
+
+
+/*
+    assertTrue || assertFalse
+        condition 확인
+
+    void assertTrue(boolean condition)
+        || void assertFalse(boolean condition)
+ */
 
 class CircleTest1
 {
